@@ -6,4 +6,8 @@ models:
       - name: customer_id
         tests:
           - unique
+<<<<<<< HEAD
           - not_null
+=======
+          - not_null
+>>>>>>> c7258b69a0245a708380265bfa1dfc63a4eb46b7
