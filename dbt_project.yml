@@ -43,3 +43,5 @@ models:
       +materialized: view
     stg:
       +materialized: table
+    dtm:
+      +materialized: table
